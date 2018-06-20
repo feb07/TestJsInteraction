@@ -1,6 +1,8 @@
 # TestJsInteraction
 android 原生webview与js交互
 具体也可见个人简书（图文说明更加详细）：https://www.jianshu.com/p/f7a1cbafae57
+
+
 前言
 
 Android与JS通过WebView互相调用方法，实际上是：
